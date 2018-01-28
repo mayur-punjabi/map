@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-transform: uppercase;
+    padding: 1rem;
+    width: 100%;
+    text-align: center;
+    color: white;
+    background: black;
+}
+sup{
+    color: red;
+}
+canvas{
+    border: 1px solid black;   
+}
+p{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 5px;
+}
+footer{
+    width: 100vw;
+    text-align: center;
+    background: grey;
+    padding: 0.5rem;
+    color: white;
+}
