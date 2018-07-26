@@ -1,1 +1,1 @@
-# astar algorithm implementation
+# a star algorithm implementation
